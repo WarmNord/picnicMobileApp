@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">picnic</string>
+    <string name="welcome">Добро пожаловать !</string>
+    <string name="input_email">Введите email</string>
+    <string name="input_password">Введите пароль</string>
+    <string name="splashscreen_name_app">Пикник</string>
+    <string name="registerScreen">Регистрация</string>
+    <string name="inputUsername">Введите Имя Пользователя</string>
+    <string name="repeatPsw">Повторите пароль</string>
+    <string name="thanks_for_register">Спасибо за регистрацию !</string>
+    <string name="confirmEmail">Вам придет сообщение для подтверждения электронной почты.</string>
+    <string name="title_activity_main_app_menu">MainAppMenu</string>
+    <string name="title_list">Список</string>
+    <string name="title_tasks">Задачи</string>
+    <string name="title_team">Команда</string>
+
+</resources>
